@@ -1,2 +1,3 @@
 let a = 2
-print(a)
+let b = 3
+print(a+b)
